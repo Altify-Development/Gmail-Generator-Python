@@ -29,3 +29,9 @@ def msg(
         print('\n\x1b[0;32;40m[\x1b[0m%s\x1b[0;32;40m]\x1b[0m' % _message_)
     else:
         print('\n\x1b[0;31;40m[ERROR]\x1b[0m')
+
+
+# Exiting function
+def ext():
+    msg(1,'Exiting...')
+    sys.exit()
