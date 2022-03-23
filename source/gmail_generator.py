@@ -184,3 +184,5 @@ def generate_info():
 
 # Main function
 if __name__=='__main__':
+
+    if open_firefox() :
