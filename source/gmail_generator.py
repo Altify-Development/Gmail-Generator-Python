@@ -35,3 +35,8 @@ def msg(
 def ext():
     msg(1,'Exiting...')
     sys.exit()
+
+
+# Function used to open Firefox
+def open_firefox():
+        
