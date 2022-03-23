@@ -108,3 +108,5 @@ def randomize(
             ):
 
     if _length_ > 0 :
+
+        # Options:
