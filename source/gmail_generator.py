@@ -177,3 +177,4 @@ def generate_info():
 
     # Gender (set to 'Rather not say')
     pyautogui.typewrite('R\t')
+    msg(2,'\x1b[0;33;40mGender:\x1b[0m Rather not say')
