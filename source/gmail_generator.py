@@ -180,3 +180,4 @@ def generate_info():
     msg(2,'\x1b[0;33;40mGender:\x1b[0m Rather not say')
 
     # Skip the rest
+    pyautogui.typewrite('\t\t\t\t\n')
