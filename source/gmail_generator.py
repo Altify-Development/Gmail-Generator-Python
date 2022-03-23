@@ -181,3 +181,5 @@ def generate_info():
 
     # Skip the rest
     pyautogui.typewrite('\t\t\t\t\n')
+
+# Main function
