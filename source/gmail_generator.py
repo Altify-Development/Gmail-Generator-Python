@@ -165,3 +165,4 @@ def generate_info():
 
     # Password
     _password_=randomize('-p',16)
+    pyautogui.typewrite(_password_+'\t'+_password_+'\t')
