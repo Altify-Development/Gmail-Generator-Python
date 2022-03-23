@@ -122,3 +122,4 @@ def randomize(
         elif _option_ == '-l':
             string._characters_='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
         elif _option_ == '-n':
+            string._characters_='1234567890'
