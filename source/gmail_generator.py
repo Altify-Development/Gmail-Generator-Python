@@ -77,3 +77,6 @@ def locate_gmail():
     pyautogui.keyDown('ctrlleft');  pyautogui.typewrite('a'); pyautogui.keyUp('ctrlleft')
     pyautogui.typewrite('https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default')
     pyautogui.typewrite('\n')
+    
+    # Wait for a while until the website responds
+    time.sleep(6)
