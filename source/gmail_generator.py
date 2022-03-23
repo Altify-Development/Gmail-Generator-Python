@@ -86,3 +86,5 @@ def locate_gmail():
 
     # Locate the form
     pyautogui.press('tab')
+ 
+    time.sleep(2)
