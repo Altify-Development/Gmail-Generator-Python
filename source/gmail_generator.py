@@ -147,3 +147,5 @@ def generate_info():
 
     # Print message
     msg(1,'Generating credentials...')
+
+    # First and last name
