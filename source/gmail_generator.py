@@ -97,3 +97,4 @@ def locate_gmail():
     if not pyautogui.click(formx, formy):
         msg(1,'Located the form.')
     else:
+        msg(3,'Failed to locate the form.')
