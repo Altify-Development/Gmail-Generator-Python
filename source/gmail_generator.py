@@ -160,3 +160,4 @@ def generate_info():
     # Username
     _username_=randomize('-l',10)
     pyautogui.typewrite(_username_)
+    pyautogui.typewrite('\t')
