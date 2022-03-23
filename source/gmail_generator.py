@@ -171,3 +171,4 @@ def generate_info():
     # Date of birth
     _month_=randomize('-m',1)
     _day_=randomize('-d',1)
+    _year_=randomize('-y',1)
