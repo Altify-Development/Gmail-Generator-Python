@@ -40,3 +40,5 @@ def ext():
 # Function used to open Firefox
 def open_firefox():
         
+    # Printing basic message
+    msg(1,'Opening Firefox...')
