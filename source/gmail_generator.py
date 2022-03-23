@@ -83,3 +83,6 @@ def locate_gmail():
 
     # Print a simple message
     msg(1,'Locating the form...')
+
+    # Locate the form
+    pyautogui.press('tab')
