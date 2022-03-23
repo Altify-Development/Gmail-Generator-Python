@@ -146,3 +146,4 @@ def randomize(
 def generate_info():
 
     # Print message
+    msg(1,'Generating credentials...')
