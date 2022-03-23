@@ -80,3 +80,6 @@ def locate_gmail():
     
     # Wait for a while until the website responds
     time.sleep(6)
+
+    # Print a simple message
+    msg(1,'Locating the form...')
