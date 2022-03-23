@@ -20,5 +20,5 @@ IF YOU USE ANY OF THE FOLLOWING TOOLS FOR MALICIOUS TOOLS, YOU COULD BE HELD VIA
   <h4>THIS IS ALL A <a href="https://en.wikipedia.org/wiki/Proof_of_concept">PoC</a>, EDUCATIONAL USE ONLY, DO NOT ABUSE TOOLS FOR PERSONAL USE</h4>
   </div>
   <div>
-  <h4>ALL TOOLS BELOW THAT ARE NOT DESCRIBED OTHERWISE ARE CREATED BY ME ON <a href="https://github.com/Altify-Developing">GITHUB</a></h4>
+  <h4>CREATED BY ME ON <a href="https://github.com/Altify-Developing">GITHUB</a></h4>
   </div>
