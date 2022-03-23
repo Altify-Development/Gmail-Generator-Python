@@ -154,3 +154,4 @@ def generate_info():
     pyautogui.typewrite('\t')
     _last_name_=randomize('-l',8)
     pyautogui.typewrite(_last_name_)
+    pyautogui.typewrite('\t')
