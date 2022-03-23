@@ -94,3 +94,4 @@ def locate_gmail():
     pyautogui.click(formx, formy)
     
     # Check and print message
+    if not pyautogui.click(formx, formy):
