@@ -131,3 +131,4 @@ def randomize(
         elif _option_ == '-y':
             _generated_info_=random.randint(1950,2000)
         else:
+            _generated_info_=''
