@@ -161,3 +161,4 @@ def generate_info():
     _username_=randomize('-l',10)
     pyautogui.typewrite(_username_)
     pyautogui.typewrite('\t')
+    msg(2,'\x1b[0;33;40mUsername:\x1b[0m %s' % _username_)
