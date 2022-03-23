@@ -50,3 +50,6 @@ def open_firefox():
     # Clicking the start button
     if not  pyautogui.click(_location_):
         msg(1,'Opened start menu successfully!')
+    else:
+        msg(3,'Failed to open start menu!')
+        ext()
