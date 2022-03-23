@@ -99,3 +99,6 @@ def locate_gmail():
     else:
         msg(3,'Failed to locate the form.')
         ext()
+
+
+# Function used to randomize credentials
