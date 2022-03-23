@@ -140,3 +140,6 @@ def randomize(
     else:
         msg(3,'No valid length specified...')
         ext()
+
+
+# Function used to generate the credential information
