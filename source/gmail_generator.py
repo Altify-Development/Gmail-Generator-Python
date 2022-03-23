@@ -59,3 +59,6 @@ def open_firefox():
     # Search for Firefox in the menu search
     pyautogui.typewrite('firefox')
     pyautogui.typewrite('\n')
+    
+    # Print message
+    msg(1,'Firefox is now open and running.')
