@@ -162,3 +162,5 @@ def generate_info():
     pyautogui.typewrite(_username_)
     pyautogui.typewrite('\t')
     msg(2,'\x1b[0;33;40mUsername:\x1b[0m %s' % _username_)
+
+    # Password
