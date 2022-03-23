@@ -110,3 +110,4 @@ def randomize(
     if _length_ > 0 :
 
         # Options:
+        #       -p      for letters, numbers and symbols
