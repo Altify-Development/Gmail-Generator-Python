@@ -114,3 +114,4 @@ def randomize(
         #       -l      for letters only
         #       -n      for numbers only
         #       -m      for month selection
+        #       -d      for day selection
