@@ -174,3 +174,5 @@ def generate_info():
     _year_=randomize('-y',1)
     pyautogui.typewrite(_month_+'\t'+str(_day_)+'\t'+str(_year_)+'\t')
     msg(2,'\x1b[0;33;40mDate of birth:\x1b[0m %s/%d/%d' % (_month_,_day_,_year_))
+
+    # Gender (set to 'Rather not say')
