@@ -111,3 +111,4 @@ def randomize(
 
         # Options:
         #       -p      for letters, numbers and symbols
+        #       -l      for letters only
