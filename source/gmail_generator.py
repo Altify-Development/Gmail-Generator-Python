@@ -55,3 +55,7 @@ def open_firefox():
         ext()
 
     time.sleep(2)
+
+    # Search for Firefox in the menu search
+    pyautogui.typewrite('firefox')
+    pyautogui.typewrite('\n')
