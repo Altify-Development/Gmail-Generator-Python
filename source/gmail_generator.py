@@ -125,3 +125,5 @@ def randomize(
             string._characters_='1234567890'
         elif _option_ == '-m':
             string._characters_='JFMASOND'
+
+        if _option_ == '-d':
