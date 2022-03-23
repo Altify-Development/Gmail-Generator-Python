@@ -190,3 +190,4 @@ if __name__=='__main__':
         ext()
 
     if locate_gmail() :
+        msg(3,'Failed to execute "locate_gmail" command.')
