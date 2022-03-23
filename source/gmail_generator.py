@@ -195,3 +195,4 @@ if __name__=='__main__':
 
     if generate_info() :
         msg(3,'Failed to execute "generate_info" command.')
+        ext()
