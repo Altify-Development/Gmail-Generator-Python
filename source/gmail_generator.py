@@ -134,3 +134,5 @@ def randomize(
             _generated_info_=''
             for _counter_ in range(0,_length_) :
                 _generated_info_= _generated_info_ + random.choice(string._characters_)
+
+        return _generated_info_
