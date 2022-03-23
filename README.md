@@ -1,4 +1,5 @@
 # Gmail-Generator-Python
+<a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
 ## Created By: Altify
 
 Use: Python and emulated firefox users and proxies to create Google Mail (@gmail.com) accounts and writes it down the account information to a file
