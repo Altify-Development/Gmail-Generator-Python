@@ -119,3 +119,4 @@ def randomize(
 
         if _option_ == '-p':
             string._characters_='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+'
+        elif _option_ == '-l':
