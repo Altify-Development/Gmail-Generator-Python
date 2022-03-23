@@ -62,3 +62,7 @@ def open_firefox():
     
     # Print message
     msg(1,'Firefox is now open and running.')
+
+
+# Function used to locate GMail
+def locate_gmail():
