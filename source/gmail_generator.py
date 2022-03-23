@@ -144,3 +144,5 @@ def randomize(
 
 # Function used to generate the credential information
 def generate_info():
+
+    # Print message
