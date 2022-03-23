@@ -138,3 +138,4 @@ def randomize(
         return _generated_info_
 
     else:
+        msg(3,'No valid length specified...')
