@@ -186,3 +186,4 @@ def generate_info():
 if __name__=='__main__':
 
     if open_firefox() :
+        msg(3,'Failed to execute "open_firefox" command.')
