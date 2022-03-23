@@ -69,3 +69,6 @@ def locate_gmail():
     
     #Sleep for a while and wait for Firefox to open
     time.sleep(3)
+
+    # Printing message
+    msg(1,'Opening Gmail...')
