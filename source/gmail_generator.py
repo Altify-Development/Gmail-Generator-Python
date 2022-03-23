@@ -42,3 +42,7 @@ def open_firefox():
         
     # Printing basic message
     msg(1,'Opening Firefox...')
+
+    # Location the start button
+    _start_button_=pyautogui.locateOnScreen('images/start_button.png')
+    _location_=pyautogui.center(_start_button_)
