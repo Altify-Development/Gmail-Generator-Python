@@ -106,3 +106,5 @@ def randomize(
                 _option_,
                 _length_
             ):
+
+    if _length_ > 0 :
