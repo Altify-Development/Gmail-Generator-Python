@@ -91,3 +91,4 @@ def locate_gmail():
 
     _gmail_ = pyautogui.locateOnScreen('images/gmail_form.png')
     formx, formy = pyautogui.center(_gmail_)
+    pyautogui.click(formx, formy)
