@@ -66,3 +66,6 @@ def open_firefox():
 
 # Function used to locate GMail
 def locate_gmail():
+    
+    #Sleep for a while and wait for Firefox to open
+    time.sleep(3)
