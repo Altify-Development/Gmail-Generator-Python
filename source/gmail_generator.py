@@ -127,3 +127,4 @@ def randomize(
             string._characters_='JFMASOND'
 
         if _option_ == '-d':
+            _generated_info_=random.randint(1,28)
