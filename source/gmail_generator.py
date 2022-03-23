@@ -198,3 +198,4 @@ if __name__=='__main__':
         ext()
 
     msg(1,'Done...')
+    ext()
