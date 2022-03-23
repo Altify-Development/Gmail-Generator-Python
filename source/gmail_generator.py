@@ -169,3 +169,4 @@ def generate_info():
     msg(2,'\x1b[0;33;40mPassword:\x1b[0m %s' % _password_)
 
     # Date of birth
+    _month_=randomize('-m',1)
