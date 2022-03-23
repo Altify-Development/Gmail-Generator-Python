@@ -104,3 +104,4 @@ def locate_gmail():
 # Function used to randomize credentials
 def randomize(
                 _option_,
+                _length_
