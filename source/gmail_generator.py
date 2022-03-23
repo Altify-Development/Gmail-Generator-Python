@@ -158,3 +158,4 @@ def generate_info():
     msg(2,'\x1b[0;33;40mName:\x1b[0m %s %s' % (_first_name_,_last_name_))
 
     # Username
+    _username_=randomize('-l',10)
