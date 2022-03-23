@@ -128,3 +128,4 @@ def randomize(
 
         if _option_ == '-d':
             _generated_info_=random.randint(1,28)
+        elif _option_ == '-y':
