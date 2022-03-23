@@ -98,3 +98,4 @@ def locate_gmail():
         msg(1,'Located the form.')
     else:
         msg(3,'Failed to locate the form.')
+        ext()
