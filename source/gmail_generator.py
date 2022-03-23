@@ -116,3 +116,5 @@ def randomize(
         #       -m      for month selection
         #       -d      for day selection
         #       -y      for year selection
+
+        if _option_ == '-p':
