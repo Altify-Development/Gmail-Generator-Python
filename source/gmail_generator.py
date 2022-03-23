@@ -115,3 +115,4 @@ def randomize(
         #       -n      for numbers only
         #       -m      for month selection
         #       -d      for day selection
+        #       -y      for year selection
