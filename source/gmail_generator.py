@@ -183,3 +183,4 @@ def generate_info():
     pyautogui.typewrite('\t\t\t\t\n')
 
 # Main function
+if __name__=='__main__':
