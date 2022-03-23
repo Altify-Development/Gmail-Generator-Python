@@ -118,3 +118,4 @@ def randomize(
         #       -y      for year selection
 
         if _option_ == '-p':
+            string._characters_='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+'
