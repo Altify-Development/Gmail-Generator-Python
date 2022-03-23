@@ -172,3 +172,4 @@ def generate_info():
     _month_=randomize('-m',1)
     _day_=randomize('-d',1)
     _year_=randomize('-y',1)
+    pyautogui.typewrite(_month_+'\t'+str(_day_)+'\t'+str(_year_)+'\t')
