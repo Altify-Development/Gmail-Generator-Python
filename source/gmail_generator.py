@@ -167,3 +167,5 @@ def generate_info():
     _password_=randomize('-p',16)
     pyautogui.typewrite(_password_+'\t'+_password_+'\t')
     msg(2,'\x1b[0;33;40mPassword:\x1b[0m %s' % _password_)
+
+    # Date of birth
