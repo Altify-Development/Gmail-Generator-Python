@@ -53,3 +53,5 @@ def open_firefox():
     else:
         msg(3,'Failed to open start menu!')
         ext()
+
+    time.sleep(2)
