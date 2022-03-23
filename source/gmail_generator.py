@@ -149,3 +149,4 @@ def generate_info():
     msg(1,'Generating credentials...')
 
     # First and last name
+    _first_name_=randomize('-l',7)
