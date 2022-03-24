@@ -22,4 +22,3 @@ IF YOU USE ANY OF THE FOLLOWING TOOLS FOR MALICIOUS TOOLS, YOU COULD BE HELD VIA
   <div>
   <h4>CREATED BY ME ON <a href="https://github.com/Altify-Developing">GITHUB</a></h4>
   </div>
-  {% raw %}{% seo %}{% endraw %}
