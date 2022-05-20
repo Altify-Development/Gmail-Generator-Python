@@ -6,6 +6,7 @@ Use: Python and emulated firefox users and proxies to create Google Mail (@gmail
 
 Developer's Request: If you download, clone, or fork this repository or any of its contents, please star the repo, follow me, and please just don't repost it saying you created the tool. Every star matters, a little can go a long way, thanks!
 
+###### PS: Please visit my main project for over 200 useful hacking/bypassing tools - [Altify Developing Main](https://github.com/Altify-Developing/Altify-Developing-Main)
 ###### Coded In [Python](https://www.python.org/)
 ###### FOR EDUCATIONAL USE ONLY
 <div>
