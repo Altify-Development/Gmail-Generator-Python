@@ -28,5 +28,7 @@ IF YOU USE THIS TOOL, YOU COULD BE HELD VIABLE FOR THE EXPENSES CAUSED BELOW
 
 ### System Requirments:
 OS: Windows (64xWindows10/32xWindows7, 64xWindows11 not supported yet)
+
 python installed - [download](https://www.python.org/downloads/release/python-3106/)
-Chromium-based browser installed on computer
+
+Firefox installed on computer
