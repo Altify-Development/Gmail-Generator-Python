@@ -27,7 +27,7 @@ IF YOU USE THIS TOOL, YOU COULD BE HELD VIABLE FOR THE EXPENSES CAUSED BELOW
   </div>
 
 ### System Requirments:
-OS: Windows (64xWindows10/32xWindows7, 64xWindows11 not supported yet)
+Linux Based ( Chromebook Terminal Supported )
 
 python installed - [download](https://www.python.org/downloads/release/python-3106/)
 
