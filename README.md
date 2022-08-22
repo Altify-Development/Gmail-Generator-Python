@@ -2,6 +2,8 @@
 <a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
 ## Created By: Altify
 
+### Join discord - https://discadia.com/altify/
+
 ### Major Update: start.exe is a compiled batch startup because of people not knowing how to use python. Send a message on discord if it does nothing, because i have a fix for that, as of now it works on 88% of all windows devices ( PC Platforms ).
 
 Use: Python and emulated firefox users and proxies to create Google Mail (@gmail.com) accounts and writes it down the account information to a file
