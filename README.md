@@ -2,7 +2,9 @@
 <a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
 ## Created By: Altify
 
-### Join discord - https://discadia.com/altify/
+My Newest Tool: [Fake Person Creator](https://github.com/Altify-Development/Fake-Person-Generator)
+
+### Join discord - [Discord Link](https://joindiscord.netlify.app)
 
 ### Major Update: start.exe is a compiled batch startup because of people not knowing how to use python. Send a message on discord if it does nothing, because i have a fix for that, as of now it works on 88% of all windows devices ( PC Platforms ).
 
