@@ -2,7 +2,7 @@
 <a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
 ## Created By: Altify
 
-My Newest Tool: [Fake Person Creator](https://github.com/Altify-Development/Fake-Person-Generator)
+## My Newest Tool: [Fake Person Creator](https://github.com/Altify-Development/Fake-Person-Generator)
 
 ### Join discord - [Discord Link](https://joindiscord.netlify.app)
 
