@@ -1,7 +1,7 @@
 # Gmail-Generator-Python
 <a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
 ## Created By: Altify
-# ⛔ NOT WORKING ⛔ ( as of 8/23/22 )
+# ⛔ NOT WORKING ⛔ ( as of 8/23/22 ) - Get my fake person creator for updated accounts ( 30,000 accounts/min )
 ## My Newest Tool: [Fake Person Creator](https://github.com/Altify-Development/Fake-Person-Generator)
 
 ### Join discord - [Discord Link](https://joindiscord.netlify.app)
