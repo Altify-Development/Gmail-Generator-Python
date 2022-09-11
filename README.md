@@ -1,5 +1,5 @@
 # Gmail-Generator-Python
-<a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
+<a title='31223'href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Gmail-Generator-Python.svg"></a>
 ## Created By: Altify
 # ⛔ NOT WORKING ⛔ ( as of 8/23/22 ) - Fixing
 ## My Newest Tool: [Creator](https://github.com/Altify-Development/Fake-Person-Generator)
