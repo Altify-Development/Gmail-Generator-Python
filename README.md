@@ -6,8 +6,6 @@
 
 ### Join discord - [Discord Link](https://joindiscord.netlify.app)
 
-### Major Update: start.exe is a compiled batch startup because of people not knowing how to use python. Send a message on discord if it does nothing, because i have a fix for that, as of now it works on 88% of all windows devices ( PC Platforms ).
-
 Use: Python and emulated firefox users and proxies to create Google Mail (@gmail.com) accounts and writes it down the account information to a file
 
 Developer's Request: If you download, clone, or fork this repository or any of its contents, please star the repo, follow me, and please just don't repost it saying you created the tool. Every star matters, a little can go a long way, thanks!
